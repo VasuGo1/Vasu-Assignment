@@ -1,1 +1,22 @@
-[{ "value": "cairo", "label": "Cairo" },{ "value": "dubai", "label": "Dubai" }]
+[
+  {
+    "value": "ABC-1234",
+    "label": "Toyota Corolla"
+  },
+  {
+    "value": "XYZ-5678",
+    "label": "Honda Civic"
+  },
+  {
+    "value": "LMN-9012",
+    "label": "Ford Mustang"
+  },
+  {
+    "value": "JKL-3456",
+    "label": "Chevrolet Silverado"
+  },
+  {
+    "value": "PQR-7890",
+    "label": "Tesla Model 3"
+  }
+]
