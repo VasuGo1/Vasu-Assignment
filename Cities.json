@@ -1,0 +1,17 @@
+[
+  { "value": "cairo", "label": "Cairo" },
+  { "value": "dubai", "label": "Dubai" },
+  { "value": "riyadh", "label": "Riyadh" },
+  { "value": "amman", "label": "Amman" },
+  { "value": "beirut", "label": "Beirut" },
+  { "value": "doha", "label": "Doha" },
+  { "value": "baghdad", "label": "Baghdad" },
+  { "value": "kuwait_city", "label": "Kuwait City" },
+  { "value": "muscat", "label": "Muscat" },
+  { "value": "algiers", "label": "Algiers" },
+  { "value": "tunis", "label": "Tunis" },
+  { "value": "casablanca", "label": "Casablanca" },
+  { "value": "jeddah", "label": "Jeddah" },
+  { "value": "doha", "label": "Doha" },
+  { "value": "manama", "label": "Manama" }
+]
